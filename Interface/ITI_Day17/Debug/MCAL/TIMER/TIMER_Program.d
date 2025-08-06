@@ -1,0 +1,23 @@
+MCAL/TIMER/TIMER_Program.o MCAL/TIMER/TIMER_Program.o:  \
+ ../MCAL/TIMER/TIMER_Program.c \
+  D:\Diploma\interface\ITI_Day17/LIB/BIT_MATH.h \
+  D:\Diploma\interface\ITI_Day17/LIB/STD_TYPES.h \
+  D:\Diploma\interface\ITI_Day17/MCAL/DIO/DIO_Interface.h \
+  D:\Diploma\interface\ITI_Day17/MCAL/GIE/GIE_Interface.h \
+  D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Interface.h \
+  D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Private.h \
+  D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Cfg.h
+
+D:\Diploma\interface\ITI_Day17/LIB/BIT_MATH.h:
+
+D:\Diploma\interface\ITI_Day17/LIB/STD_TYPES.h:
+
+D:\Diploma\interface\ITI_Day17/MCAL/DIO/DIO_Interface.h:
+
+D:\Diploma\interface\ITI_Day17/MCAL/GIE/GIE_Interface.h:
+
+D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Interface.h:
+
+D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Private.h:
+
+D:\Diploma\interface\ITI_Day17/MCAL/TIMER/TIMER_Cfg.h:
